@@ -18,7 +18,7 @@ int main()
      strlwr(str2);
 
      printf("String 1 after converting to uppercase:%s\n",str1);
-     printf("String 2 after converting to uppercase:%s\n",str2);
+     printf("String 2 after converting to lowercase:%s\n",str2);
 
      return 0;
 }
